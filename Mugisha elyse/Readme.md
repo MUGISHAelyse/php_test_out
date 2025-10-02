@@ -35,4 +35,6 @@ This PHP-based application allows educational institutions to manage student gra
 3.Rugwizangoga Ghslain
 4.Muhirwa Roger
 5.Niyubwayo Hirwa Bohneur
+6.Mugisha Joel
+
 
