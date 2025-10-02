@@ -21,13 +21,18 @@ This PHP-based application allows educational institutions to manage student gra
 
 ## 🛠 Technologies Used
 - PHP 8+
-- MySQL
 - HTML/CSS
 - JavaScript (optional for dynamic form behavior)
 
 ## 🚀 Getting Started
 1. Clone the repository.
-2. Set up your database using the provided SQL schema.
-3. Configure `config.php` with your DB credentials.
-4. Access the system via `index.php`.
+2. Access the system via `index.php`.
+
+## 👁‍🗨Group members
+
+1.Mugisha Elyse
+2.Murego Cyusa Yves
+3.Rugwizangoga Ghslain
+4.Muhirwa Roger
+5.Niyubwayo Hirwa Bohneur
 
